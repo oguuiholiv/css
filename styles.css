@@ -1,0 +1,102 @@
+.LogoImg {
+  position: absolute;
+  width: 100%;
+  max-width: 293px;
+  top: 20%;
+  left: 55%;
+}
+
+.SplashImg {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+}
+
+.loginTxt {
+  position: absolute;
+  width: 90%;
+  max-width: 245px;
+  height: 15px;
+  left: 57%;
+  top: 37%;
+
+  font-family: 'Public Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 14px;
+  /* identical to box height */
+
+  text-transform: uppercase;
+
+  color: #566A7F;
+
+}
+
+.emailLogin {
+  position: absolute;
+  width: 90%;
+  max-width: 397px;
+  height: 38px;
+  left: 50%;
+  top: 45%;
+  background: #FFFFFF;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  box-shadow: 0px 2px 4px #696CFF;
+  border-radius: 6px;
+}
+
+.passLogin {
+  position: absolute;
+  width: 90%;
+  max-width: 397px;
+  height: 38px;
+  left: 50%;
+  top: 55%;
+  background: #FFFFFF;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  box-shadow: 0px 2px 4px #696CFF;
+  border-radius: 6px;
+}
+
+.hiperLogin {
+  position: absolute;
+  width: 90%;
+  max-width: 147px;
+  height: 24px;
+  left: 55%;
+  top: 62%;
+
+  font-family: 'Public Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  /* identical to box height, or 160% */
+
+  text-decoration-line: underline;
+
+  color: #697A8D;
+}
+
+.btnLogin {
+  position: absolute;
+  width: 90%;
+  max-width: 293px;
+  height: 38px;
+  left: 55%;
+  top: 70%;
+  background: #696CFF;
+  border-radius: 6px;
+  /* texto dentro do botao */
+  font-family: 'Public Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  text-align: center;
+  letter-spacing: 0.428571px;
+  color: #FFFFFF;
+}
